@@ -7,8 +7,6 @@
   - Implicit Discourse Relation Recognition (IDRR), NLP
   - Deep Reinforcement Learning (DRL)
   - Large Language Model (LLM)
-- Project
-  - Null
 
 ## 📈Statistics
 
