@@ -4,7 +4,7 @@
 - Email: zhipangwang@gmail.com
 - Affiliation: the School of Computer Science and Technology, Soochow University
 - Research Direction:
-  - NLP
+  - Natural Language Processing (NLP)
   - Large Language Model (LLM)
   <!-- - Deep Reinforcement Learning (DRL) -->
 
