@@ -1,12 +1,12 @@
 ## 😺 About me
 
-- Name: Zhipang Wang
+- Name: Zhipang (William) Wang
 - Email: zhipangwang@gmail.com
-- Institution: School of Computer Science and Technology, Soochow University
+- Affiliation: the School of Computer Science and Technology, Soochow University
 - Research Direction:
-  - Implicit Discourse Relation Recognition (IDRR), NLP
-  - Deep Reinforcement Learning (DRL)
+  - NLP
   - Large Language Model (LLM)
+  <!-- - Deep Reinforcement Learning (DRL) -->
 
 ## 📈Statistics
 
