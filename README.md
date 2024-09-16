@@ -2,7 +2,7 @@
 
 - Name: Zhipang (William) Wang
 - Email: zhipangwang@gmail.com
-- Affiliation: the School of Computer Science and Technology, Soochow University
+- Affiliation: School of Computer Science and Technology, Soochow University
 - Research Direction:
   - Natural Language Processing (NLP)
   - Large Language Model (LLM)
